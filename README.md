@@ -14,3 +14,10 @@
 [English Version](https://github.com/f/awesome-chatgpt-prompts)
 
 [中文版本](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
+
+## Embedding任务
+TODO
+1. 文本分类
+2. 文本聚类
+3. 相关文本搜索
+4. 生成文本主题
